@@ -1,0 +1,42 @@
+baseurl = "http://chatch.github.io/blog"
+languageCode = "en-us"
+title = "chatch.github.io"
+theme = "cactus"
+
+[params]
+	name = "Chris Hatch"
+	#description = "Describe your website"
+	#bio = "Programmer"
+	enableRSS = true
+
+	# Add custom assets with their paths relative to the static folder
+	customCSS = []
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	about = ""
+	subscribe = "RSS"
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+#	aboutAuthor = "I'm a ..."
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+[social]
+    github   = "https://github.com/chatch"
+    rss   = "/index.xml"
