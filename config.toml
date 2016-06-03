@@ -39,4 +39,4 @@ theme = "cactus"
 
 [social]
     github   = "https://github.com/chatch"
-    rss   = "/index.xml"
+    rss   = "/blog/index.xml"
