@@ -1,4 +1,4 @@
-baseurl = "http://chatch.github.io/blog"
+baseurl = "http://chatch.github.io/blog/"
 languageCode = "en-us"
 title = "chatch.github.io"
 theme = "cactus"
