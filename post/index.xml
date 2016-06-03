@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on chatch.github.io</title>
-    <link>http://chatch.github.io/blog/post/</link>
+    <link>https://chatch.github.io/blog/post/</link>
     <description>Recent content in Posts on chatch.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 May 2016 05:36:39 +0700</lastBuildDate>
-    <atom:link href="http://chatch.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chatch.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Python example</title>
-      <link>http://chatch.github.io/blog/post/testpost/</link>
+      <link>https://chatch.github.io/blog/post/testpost/</link>
       <pubDate>Tue, 31 May 2016 05:36:39 +0700</pubDate>
       
-      <guid>http://chatch.github.io/blog/post/testpost/</guid>
+      <guid>https://chatch.github.io/blog/post/testpost/</guid>
       <description>&lt;p&gt;Some text for the first post &amp;hellip;.&lt;/p&gt;
 
 &lt;div class=&#34;highlight&#34; style=&#34;background: #272822&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span style=&#34;color: #66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color: #a6e22e&#34;&gt;hello_world&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;():&lt;/span&gt;
